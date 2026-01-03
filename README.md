@@ -1,0 +1,2 @@
+# simple_linear_regression_from_scratch
+Create with Python
